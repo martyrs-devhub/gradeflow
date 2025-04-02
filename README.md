@@ -29,20 +29,18 @@ Import database srms.sql (provided as srms.sql file)
 
 For User
 
-Open Your browser put inside browser http://localhost/srms
+Open Your browser put inside browser http://localhost/gradeflow/srms/index.php
 
 *********************Details of student**********************
 You can go on to check for more users in the created table tblstudents and try using others.
 
-Student name-- Anuj Kumar�
-Roll id--10861
-Student Class: Fourth(C)
+Username : Mulumba Moses
+Password : @baliba94
+Email    : mulumba.moses@stud.umu.ac.ug
 
 ********************For Admin Panel************************
 
-Open Your browser put inside browser http://localhost/srms
-Username :�admin
-Password : Test@123
+Open Your browser put inside browser http://localhost/gradeflow/srms/admin-login.php
 
-
-For More Details --- https://phpgurukul.com/student-result-management-system/
+Admin_Email : mulumbam@umu.ac.ug
+Password : 123
